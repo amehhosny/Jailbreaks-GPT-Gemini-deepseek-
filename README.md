@@ -38,7 +38,6 @@ Connect with me:
 
 ### Article
 Article: [WormGPT Jailbreaks — ShadowHackr](https://www.shadowhackr.com/2025/10/wormgpt-jailbreaks.html)  
-> [Unverified] I cannot verify whether the site permits embedding via `<iframe>`. I do not recommend copying the full text without permission.
 
 ## 🎯 Available Prompts
 
